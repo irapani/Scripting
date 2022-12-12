@@ -1,0 +1,15 @@
+total 80
+drwxr-xr-x@ 14 udaykumar  staff   448 Dec 11 21:50 .
+drwx------@  7 udaykumar  staff   224 Dec 11 21:50 ..
+-rw-r--r--@  1 udaykumar  staff  6148 Dec 11 21:25 .DS_Store
+drwxr-xr-x@ 12 udaykumar  staff   384 Dec 11 21:14 .git
+-rwxr-xr-x@  1 udaykumar  staff   103 Dec  2 11:49 Linux.sh
+-rwxr-xr-x@  1 udaykumar  staff   313 Dec 11 21:06 age.sh
+-rwxr-xr-x@  1 udaykumar  staff   285 Dec 11 21:44 count.sh
+-rw-r--r--@  1 udaykumar  staff     5 Dec  2 16:53 file.txt
+-rw-r--r--   1 udaykumar  staff     0 Dec 11 21:50 file1.txt
+-rw-r--r--   1 udaykumar  staff     0 Dec 11 21:50 file2.txt
+-rwxr-xr-x@  1 udaykumar  staff   191 Dec 11 21:34 input.sh
+-rwxr-xr-x@  1 udaykumar  staff   357 Dec 11 21:44 loops.sh
+-rwxr-xr-x@  1 udaykumar  staff   109 Dec 11 21:50 output.sh
+-rwxr-xr-x@  1 udaykumar  staff    25 Dec  1 16:50 test.sh
